@@ -8,6 +8,6 @@ Observations:
 - As the length of the dipole antenna increases beyond the wavelength, the number of side lobes begins to increase.
 - At the same time the beam becomes narrower as the length increases.
 
-Software Used: GNEC - Numerical Electromagnetic Code
-Time Frame: Sep 2020 (ongoing)
-Course : Antenna Theory ( EE629 )
+#### Software Used: GNEC - Numerical Electromagnetic Code, MATLAB
+#### Time Frame: Sep 2020 (ongoing)
+#### Course : Antenna Theory ( EE629 )
