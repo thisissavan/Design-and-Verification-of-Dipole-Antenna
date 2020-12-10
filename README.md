@@ -9,5 +9,5 @@ Observations:
 - At the same time the beam becomes narrower as the length increases.
 
 #### Software Used: GNEC - Numerical Electromagnetic Code, MATLAB
-#### Time Frame: Sep 2020 (ongoing)
+#### Time Frame: Oct-2020
 #### Course : Antenna Theory ( EE629 )
